@@ -1,9 +1,14 @@
 body {
-    background-image: url(/station.jpg);
+    background-image: url(sta tion.jpg);
     background-size: cover;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     text-align: center;
+    
+}
+ 
+img{
+    opacity: 0.75;
 }
 
 h1 {
@@ -23,7 +28,7 @@ button {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     width: 200px;
     margin-bottom: 5px;
@@ -31,11 +36,11 @@ button {
 
 }
 
-#increment-button {
-    background: blue;
+#increment-btn {
+    background-color: rgb(46, 46, 251);
 }
 
-#sabe-button {
-    background: lightgreen;
+#save-btn {
+    background-color: rgb(144, 245, 144);
 }
 
