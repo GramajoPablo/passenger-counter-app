@@ -5,12 +5,11 @@ body {
     font-weight: bold;
     text-align: center;
     
-}
- 
-img{
-    opacity: 0.75;
+    
 }
 
+ 
+ 
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -43,4 +42,4 @@ button {
 #save-btn {
     background-color: rgb(144, 245, 144);
 }
-
+ 
